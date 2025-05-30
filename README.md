@@ -1,8 +1,8 @@
 # About Me
 
-🎓 I'm **Yuchen Zhu** currently pursuing an MSc in Data Science and Machine Learning at **UCL**, with a BSc in Artificial Intelligence and Computer Science from **University of Birmingham**.  
+🎓 I'm **Yuchen Zhu** currently pursuing an MSc in Data Science and Machine Learning at **UCL**, with a BSc in Artificial Intelligence and Computer Science from **UOB**.  
 🤖 Passionate about **ML**, especially **NLP**  
-❤️ I love **CR7** — the Greatest of All Time
+❤️ I love **CR7** the Greatest of All Time
 
 ## Tech Stack
 
