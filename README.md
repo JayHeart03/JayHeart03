@@ -24,6 +24,7 @@
 
 ## GitHub Stats
 
-![Jay Zhu's Stats](https://my-repo-eta-ruddy.vercel.app/api?username=JayHeart03&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Jay Zhu's Stats](https://github-readme-stats.vercel.app/api?username=JayHeart03&theme=tokyonight&show_icons=true&hide_border=false)
+
 
 
