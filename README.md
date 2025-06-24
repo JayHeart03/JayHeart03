@@ -1,6 +1,6 @@
 # About Me
 
-🎓 I'm **Yuchen Zhu** currently pursuing an MSc in DSML at **UCL**, with a BSc in AICS from **UOB**.  
+🎓 I'm **Yuchen Zhu** currently pursuing an MSc in DSML at UCL with a BSc in AICS from UOB.  
 🤖 Passionate about **ML**, especially **NLP**  
 ❤️ I love **CR7** the Greatest of All Time
 
